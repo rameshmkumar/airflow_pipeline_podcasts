@@ -1,4 +1,4 @@
-# Airflow Podcast Downloader & Archiver
+# Airflow Podcast Downloader
 
 This project uses Apache Airflow to automatically fetch, store episode details, and download audio files from a podcast RSS feed. It's currently set up for the "Marketplace" podcast from publicradio.org.
 
