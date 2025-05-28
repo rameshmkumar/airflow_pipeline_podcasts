@@ -1,0 +1,7 @@
+/airflow_venv
+Notes.md
+/episodes
+airflow.db
+simple_auth_manager_passwords.json.generateds
+airflow.cfg
+/logs
